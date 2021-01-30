@@ -1,4 +1,6 @@
 # ATtiny85-5LEDPCB
 PCB with 5 LEDs, different blinking routines for each.
 
-Assembly video: https://www.youtube.com/watch?v=wJXMZybXftk
+Manual version: https://www.youtube.com/watch?v=wJXMZybXftk
+Auto Light-up version: https://www.youtube.com/watch?v=zVBrc78851Q
+
