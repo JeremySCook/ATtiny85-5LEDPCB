@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name myLib)(type Legacy)(uri ${KIPRJMOD}/library/myLib.lib)(options "")(descr ""))
+  (lib (name ATtiny85-LEDs-rescue)(type Legacy)(uri ${KIPRJMOD}/ATtiny85-LEDs-rescue.lib)(options "")(descr ""))
+)
